@@ -1,0 +1,9 @@
+
+101,Rishi,IT-A
+102,Ran,IT-B
+101,rishi,it a
+101,rishi,it a
+202,Rani,CSE-R
+101,Rishi,IT-A
+102,Sam,IT-B
+102,Balu,IT-C

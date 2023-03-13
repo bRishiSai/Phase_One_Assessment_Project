@@ -1,0 +1,8 @@
+C:\Users\brishisai\source\repos\Phase_One_Assessment_Project\Phase_One_Assessment_Project\obj\Debug\Phase_One_Assessment_Project.csproj.AssemblyReference.cache
+C:\Users\brishisai\source\repos\Phase_One_Assessment_Project\Phase_One_Assessment_Project\obj\Debug\Phase_One_Assessment_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\brishisai\source\repos\Phase_One_Assessment_Project\Phase_One_Assessment_Project\obj\Debug\Phase_One_Assessment_Project.csproj.CoreCompileInputs.cache
+C:\Users\brishisai\source\repos\Phase_One_Assessment_Project\Phase_One_Assessment_Project\bin\Debug\Phase_One_Assessment_Project.exe.config
+C:\Users\brishisai\source\repos\Phase_One_Assessment_Project\Phase_One_Assessment_Project\bin\Debug\Phase_One_Assessment_Project.exe
+C:\Users\brishisai\source\repos\Phase_One_Assessment_Project\Phase_One_Assessment_Project\bin\Debug\Phase_One_Assessment_Project.pdb
+C:\Users\brishisai\source\repos\Phase_One_Assessment_Project\Phase_One_Assessment_Project\obj\Debug\Phase_One_Assessment_Project.exe
+C:\Users\brishisai\source\repos\Phase_One_Assessment_Project\Phase_One_Assessment_Project\obj\Debug\Phase_One_Assessment_Project.pdb

@@ -1,0 +1,5 @@
+101,Rishi,IT-A
+102,Balu,IT-B
+103,Sam,IT-C
+104,Shek,IT-D
+101,Rani,IT-E
